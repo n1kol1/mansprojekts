@@ -1,12 +1,12 @@
 # mansprojekts
 
 Testēšanas žurnāls
-Testa mērķis - pārbaudīt programmas "Latvijas hokeja izlases zināšanu tests" funkcionalitāti, lai nodrošīnātu pareizu darbību un lietotāju labas atsauksmes ;
-Testēšanas vide:
+1. Testa mērķis - pārbaudīt programmas "Latvijas hokeja izlases zināšanu tests" funkcionalitāti, lai nodrošīnātu pareizu darbību un lietotāju labas atsauksmes ;
+2. Testēšanas vide:
 - operētājsistēma: Windows ;
 - Python versija: 3.12 ;
 - nepieciešamās bibliotēkas: tkinter, PIL (Pillow) ;
-Testēšana:
+3. Testēšana:
 - programmas palaišana - logs ar sākuma attēlu un "Sākt testu" pogu ()
 - jautājumu attēlošana - jautājumi ar atbilžu variantiem un attēlu ()
 - atbildes izvēle - pāriet uz nākamo jautājumu (jā)
